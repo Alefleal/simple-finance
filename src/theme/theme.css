@@ -1,0 +1,11 @@
+/* Estilos globais para o modo claro */
+body.light-mode {
+  background-color: white;
+  color: black;
+}
+
+/* Estilos globais para o modo escuro */
+body.dark-mode {
+  background-color: #121212;
+  color: white;
+}

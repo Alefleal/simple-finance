@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap');
+@import 'tailwindcss';
+
+html {
+  font-family: 'Inter', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.text-secondary {
+  color: #a8a8a8;
+}
+
+span {
+  color: #55d462;
+}
+
+.button-green {
+  background-color: #55d462;
+  color: white;
+}
+
+.button-black {
+  background-color: #242424;
+  color: white;
+}
